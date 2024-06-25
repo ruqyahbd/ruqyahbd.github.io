@@ -1,0 +1,324 @@
+
+@font-face {
+  font-family: 'SolaimanLipi';
+  src: url('/wp-content/themes/ruqyahbd-new/assets/fonts/SolaimanLipiNormal.eot');  /* IE9 Compat Modes */
+  src: url('/wp-content/themes/ruqyahbd-new/assets/fonts/SolaimanLipiNormal.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */ 
+      url('/wp-content/themes/ruqyahbd-new/assets/fonts/SolaimanLipiNormal.woff') format('woff'), /* Pretty Modern Browsers */ 
+      url('/wp-content/themes/ruqyahbd-new/assets/fonts/SolaimanLipiNormal.ttf') format('truetype'), /* Safari, Android, iOS */ 
+      url('/wp-content/themes/ruqyahbd-new/assets/fonts/SolaimanLipiNormal.svg#svgFontName') format('svg');  /* Legacy iOS */
+}
+
+/*-------------------------------------
+#. Custom CSS
+---------------------------------------*/
+html,
+title,
+body,
+h1,
+h2,
+h3,
+h4,
+h6,
+a,
+button {
+  font-family: SolaimanLipi, sans-serif !important;
+}
+.entry-banner {
+  position: relative;
+}
+.entry-banner:after {
+  content: "";
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.entry-banner .entry-banner-content {
+  position: relative;
+  z-index: 1;
+  padding: 65px 0;
+}
+.entry-banner .entry-banner-content h1 {
+  font-size: 30px;
+}
+@media all and (max-width: 767px) {
+  .footer-bottom-area {
+    text-align: center;
+  }
+}
+@media all and (max-width: 767px) {
+  .footer-bottom-right {
+    text-align: center;
+  }
+}
+@media all and (max-width: 480px) {
+  .rt-team-grid-1 .col-xs-6 {
+    width: 100%;
+  }
+}
+@media all and (max-width: 480px) {
+  .rt-team-grid-1 .vc-item-wrap {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 360px;
+  }
+}
+.rt-team-grid-1 .vc-meta {
+  word-wrap: break-word;
+}
+.vc_row-o-equal-height .wpb_wrapper {
+  height: 100%;
+}
+/*-------------------------------------
+#. Visual Composer Addon
+---------------------------------------*/
+/* VC Info Box */
+.rq-info-box-1 {
+  height: 100%;
+  display: -ms-flexbox;
+  display: flex;
+}
+@media all and (max-width: 767px) {
+  .rq-info-box-1 {
+    max-width: 350px;
+    margin: 0 auto;
+  }
+}
+.rq-info-box-1 .rq-info-box-item,
+.rq-info-box-3 .rq-info-box-item {
+  transition: all 0.5s ease-out;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 35px;
+}
+.rq-info-box-1 .rq-info-box-item:hover,
+.rq-info-box-3 .rq-info-box-item:hover {
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+}
+.rq-info-box-1 .rq-info-box-item .rqin-img a,
+.rq-info-box-3 .rq-info-box-item .rqin-img {
+  display: block;
+}
+.rq-info-box-1 .rq-info-box-item .rqin-content,
+.rq-info-box-3 .rq-info-box-item .rqin-content {
+  padding: 20px;
+}
+.rq-info-box-1 .rq-info-box-item .rqin-content .rqin-title a,
+.rq-info-box-3 .rq-info-box-item .rqin-content .rqin-title {
+  color: #000;
+  font-size: 20px;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+.rq-info-box-1 .rq-info-box-item .rqin-content .rqin-des,
+.rq-info-box-3 .rq-info-box-item .rqin-content .rqin-des {
+  color: #222;
+}
+.rq-info-box-1 .rq-info-box-item .btn-area {
+  font-size: 0;
+}
+.rq-info-box-1 .rq-info-box-item .btn-area .rqin-btn {
+  font-size: 16px;
+  margin: 15px 10px 0 0;
+  padding: 5px 10px;
+  border-radius: 2px;
+  color: #fff;
+  background-color: #26c6da;
+  display: inline-block;
+}
+.rq-info-box-1 .rq-info-box-item .btn-area .rqin-btn:hover {
+  opacity: 0.8;
+}
+.rq-info-box-2 {
+  margin-bottom: 35px;
+}
+.rq-info-box-2 a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+.rq-info-box-2 a .rqin-title {
+  background-color: #26c6da;
+  padding: 20px;
+  font-size: 16px;
+  line-height: 1.7;
+  font-weight: 600;
+}
+.rq-info-box-2 a img {
+  display: block;
+}
+.rq-info-box-2 a:hover .rqin-title {
+  background-color: rgba(38, 198, 218, 0.9);
+}
+
+.rq-info-box-3 .rqin-icons {
+  margin-top: 5px;
+}
+.rq-info-box-3 .rqin-icons a {
+	display: inline-block;
+	margin: 10px 7px 0 0;
+  vertical-align: top;
+  width: 93px;
+  height: 27px;
+}
+
+.rq-info-box-3 .rqin-icons img {
+  border-radius: 3px;
+  width: 93px;
+  height: 27px;
+  display: block;
+}
+
+.rq-info-box-3 .rqin-icons a.rqin-btn-extra {
+  background: black;
+  color: white;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 20px;
+  padding: 3px 6px;
+  text-align: center;
+}
+
+/* VC Audio Box */
+.rq-vc-audio {
+  margin-bottom: 35px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+}
+.rq-vc-audio .rqin-title {
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111;
+}
+.rq-vc-audio .lyte-wrapper-audio {
+  margin: 0 !important;
+  width: 100% !important;
+}
+.rq-vc-audio .rqin-des {
+  margin-top: 20px;
+}
+.rq-vc-audio .rqin-extra {
+  margin-top: 10px;
+  font-style: italic;
+  font-size: 12px;
+  line-height: 1.2;
+  color: #222;
+}
+.rq-vc-audio .rqin-exlinks {
+  margin-top: 20px;
+  font-size: 0;
+}
+.rq-vc-audio .rqin-exlinks a {
+  background-color: #444;
+  color: #fff;
+  padding: 6px 15px 4px;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 1.2;
+  margin: 0 5px 5px 0;
+  display: inline-block;
+}
+.rq-vc-audio .rqin-exlinks a:hover {
+  background-color: #111;
+  text-decoration: none;
+}
+/* VC Post */
+.rq-vc-posts .rt-item {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+.rq-vc-posts .rt-item .rt-thumbnail-area .rt-thumbnail {
+  position: relative;
+  overflow: hidden;
+  display: block;
+}
+.rq-vc-posts .rt-item .rt-thumbnail-area .rt-thumbnail img {
+  transform: scale(1);
+  transition: all 1s ease-in-out 0s;
+}
+.rq-vc-posts .rt-item .rt-thumbnail-area .rt-thumbnail:hover img {
+  transform: scale(1.2);
+}
+.rq-vc-posts .rt-item .rt-content {
+  padding: 25px;
+}
+.rq-vc-posts .rt-item .rt-content h3 {
+  margin-bottom: 0;
+}
+.rq-vc-posts .rt-item .rt-content h3 a {
+  color: #222222;
+  transition: all 0.3s ease-in-out 0s;
+}
+.rq-vc-posts .rt-item .rt-content h3 a:hover {
+  color: #26c6da;
+}
+.rq-vc-posts .rt-item .rt-content .rt-excerpt {
+  margin-top: 12px;
+  font-style: 14px;
+}
+.rq-vc-posts .rt-item .rt-content .rt-meta {
+  margin-top: 15px;
+  font-size: 13px;
+  color: #222;
+}
+.rq-vc-posts .rt-item .rt-content .rt-meta i {
+  color: #26c6da;
+  padding-right: 7px;
+}
+.rq-vc-posts .rt-item .rt-content .rt-date {
+  float: left;
+  font-weight: 700;
+}
+.rq-vc-posts .rt-item .rt-content .rt-comment {
+  float: right;
+}
+.rq-vc-posts .view-btn {
+  text-align: center;
+}
+.rq-vc-posts .view-btn a {
+  color: #fff !important;
+  font-weight: 600;
+  background-color: #26c6da;
+  border-radius: 3px;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 25px;
+  line-height: 1.5;
+  border: none;
+}
+.rq-vc-posts .view-btn a:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+
+
+/* tag elem. font size small */
+tags {
+  font-size: 2px;
+}
+
+/* arabic font 
+@font-face {
+    font-family: 'noorehuda';
+    src: url(''../fonts/noorehuda.eot');
+    src: url(''../fonts/noorehuda.eot?#iefix') format('embedded-opentype'),
+         url(''../fonts/noorehuda.woff2') format('woff2'),
+         url(''../fonts/noorehuda.woff') format('woff'),
+         url(''../fonts/noorehuda.ttf') format('truetype'),
+         url(''../fonts/noorehuda.svg#noorehudaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.arab {
+			font-size: 1.7rem;
+			line-height: 3rem;
+            font-family: noorehuda;
+			direction: rtl;
+		}
+*/
