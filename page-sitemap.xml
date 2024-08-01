@@ -8,17 +8,32 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/download/others-ruqyah</loc>
-		<lastmod>2024-06-03T14:07:47+00:00</lastmod>
+		<loc>/old-pin-post-backup</loc>
+		<lastmod>2024-07-31T17:52:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/ruqyah-index-backup</loc>
+		<lastmod>2024-07-31T17:51:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/download</loc>
+		<lastmod>2024-07-13T19:14:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2018/03/download-ayat-ruqyah-www.masterlatif.com_-500x360.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/ayat</loc>
-		<lastmod>2024-06-03T11:33:45+00:00</lastmod>
+		<lastmod>2024-07-03T13:07:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2018/03/Quran-HD-Islamic-Wallpapers.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/download/others-ruqyah</loc>
+		<lastmod>2024-06-03T14:07:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/download-ayat-ruqyah-www.masterlatif.com_-500x360.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -95,13 +110,6 @@
 		<lastmod>2024-02-03T06:19:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/download</loc>
-		<lastmod>2024-01-01T11:31:00+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2018/03/download-ayat-ruqyah-www.masterlatif.com_-500x360.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/read-ayat</loc>
 		<lastmod>2023-12-24T16:18:22+00:00</lastmod>
 	</url>
@@ -175,16 +183,8 @@
 		<lastmod>2023-02-19T17:03:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/%e0%a6%b0%e0%a7%81%e0%a6%95%e0%a6%87%e0%a7%9f%e0%a6%be%e0%a6%b9-%e0%a6%87%e0%a6%a8%e0%a6%a1%e0%a7%87%e0%a6%95%e0%a7%8d%e0%a6%b8</loc>
-		<lastmod>2022-11-21T06:49:52+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/tag-cloud</loc>
 		<lastmod>2022-11-21T06:49:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%81%e0%a6%aa%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%be%e0%a6%a4%e0%a6%a8-%e0%a6%aa%e0%a6%bf%e0%a6%a8-%e0%a6%aa%e0%a7%8b%e0%a6%b8%e0%a7%8d%e0%a6%9f</loc>
-		<lastmod>2022-11-21T06:49:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/team</loc>

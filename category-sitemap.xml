@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/blog/category/appendix</loc>
-		<lastmod>2024-03-03T06:07:48+00:00</lastmod>
+		<loc>/blog/category/self-ruqyah-guide</loc>
+		<lastmod>2023-05-27T16:40:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/category/mistakes/problems-in-ruqyah</loc>
+		<lastmod>2024-04-01T15:51:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/evil-eye</loc>
 		<lastmod>2024-06-08T16:36:24+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/blog/category/jinn-possession</loc>
+		<lastmod>2024-03-03T06:07:34+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blog/category/black-magic</loc>
 		<lastmod>2024-04-01T04:02:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog/category/jinn-possession</loc>
-		<lastmod>2024-03-03T06:07:34+00:00</lastmod>
+		<loc>/blog/category/waswas</loc>
+		<lastmod>2023-12-24T16:34:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/category/physical-sickness</loc>
+		<lastmod>2024-03-03T05:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/category/appendix</loc>
+		<lastmod>2024-07-29T00:54:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/basics</loc>
@@ -25,32 +41,16 @@
 		<lastmod>2024-01-19T13:41:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog/category/kufr-shirk-kobiraj</loc>
-		<lastmod>2024-05-08T19:26:44+00:00</lastmod>
+		<loc>/blog/category/mistakes</loc>
+		<lastmod>2024-07-29T13:53:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog/category/waswas</loc>
-		<lastmod>2023-12-24T16:34:18+00:00</lastmod>
+		<loc>/blog/category/kufr-shirk-kobiraj</loc>
+		<lastmod>2024-07-29T14:35:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/qa</loc>
 		<lastmod>2024-03-03T06:06:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/category/physical-sickness</loc>
-		<lastmod>2024-03-03T05:42:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/category/self-ruqyah-guide</loc>
-		<lastmod>2023-05-27T16:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/category/mistakes</loc>
-		<lastmod>2024-04-01T15:51:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/category/mistakes/problems-in-ruqyah</loc>
-		<lastmod>2024-04-01T15:51:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/publications</loc>
