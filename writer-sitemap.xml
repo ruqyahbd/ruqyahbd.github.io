@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//ruqyahbd.org/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/writer/abdullah-almahmud</loc>
-		<lastmod>2024-11-17T14:11:34+00:00</lastmod>
+		<lastmod>2025-01-28T19:05:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/writer/ahmmad-robin</loc>
-		<lastmod>2024-11-17T13:57:19+00:00</lastmod>
+		<lastmod>2025-02-18T05:12:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/writer/rafael-hasan</loc>
-		<lastmod>2024-11-17T16:02:20+00:00</lastmod>
+		<lastmod>2024-12-18T10:56:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/writer/umme-abdullah</loc>
-		<lastmod>2023-10-08T13:17:26+00:00</lastmod>
+		<lastmod>2024-12-12T14:46:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/writer/mohammad-anwar-shah</loc>
@@ -26,14 +26,14 @@
 	</url>
 	<url>
 		<loc>/blog/writer/farhat-hussain</loc>
-		<lastmod>2024-03-03T06:07:21+00:00</lastmod>
+		<lastmod>2024-12-18T10:56:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/writer/team-work</loc>
-		<lastmod>2024-10-30T20:28:45+00:00</lastmod>
+		<lastmod>2025-01-20T14:50:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/writer/collected</loc>
-		<lastmod>2024-10-31T14:41:39+00:00</lastmod>
+		<lastmod>2025-01-28T19:05:44+00:00</lastmod>
 	</url>
 </urlset>

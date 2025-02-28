@@ -2,23 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/category/self-ruqyah-guide</loc>
-		<lastmod>2024-10-30T20:28:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/category/mistakes/problems-in-ruqyah</loc>
-		<lastmod>2024-10-09T07:49:51+00:00</lastmod>
+		<lastmod>2025-01-20T14:50:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/evil-eye</loc>
-		<lastmod>2024-10-30T20:25:21+00:00</lastmod>
+		<lastmod>2025-01-20T14:50:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/jinn-possession</loc>
-		<lastmod>2024-10-30T12:50:32+00:00</lastmod>
+		<lastmod>2025-01-20T14:50:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/black-magic</loc>
-		<lastmod>2024-10-30T20:28:45+00:00</lastmod>
+		<lastmod>2025-02-18T05:12:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/waswas</loc>
@@ -26,34 +22,38 @@
 	</url>
 	<url>
 		<loc>/blog/category/physical-sickness</loc>
-		<lastmod>2024-11-17T14:11:34+00:00</lastmod>
+		<lastmod>2024-12-21T17:02:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/appendix</loc>
-		<lastmod>2024-11-17T15:19:06+00:00</lastmod>
+		<lastmod>2025-01-26T16:20:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/basics</loc>
-		<lastmod>2024-11-17T16:02:20+00:00</lastmod>
+		<lastmod>2025-01-20T15:54:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/supplements</loc>
-		<lastmod>2024-11-17T10:52:33+00:00</lastmod>
+		<lastmod>2024-11-26T05:49:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/category/raqi-ruqyah</loc>
+		<lastmod>2025-01-20T14:50:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/mistakes</loc>
-		<lastmod>2024-10-09T07:49:51+00:00</lastmod>
+		<lastmod>2025-02-13T06:18:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/kufr-shirk-kobiraj</loc>
-		<lastmod>2024-10-27T06:25:48+00:00</lastmod>
+		<lastmod>2025-01-20T15:54:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/qa</loc>
-		<lastmod>2024-10-23T06:32:19+00:00</lastmod>
+		<lastmod>2025-01-28T19:05:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/category/publications</loc>
-		<lastmod>2024-10-17T17:41:32+00:00</lastmod>
+		<lastmod>2024-12-01T08:31:26+00:00</lastmod>
 	</url>
 </urlset>
