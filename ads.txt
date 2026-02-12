@@ -1,14 +1,2 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/blank">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "/blank";
-		</script>
-
-		<p>You are being redirected to <a href="/blank">/blank</a></p>
-	</body>
-</html>
+calling for ads, 
+ads@ruqyahbd.org

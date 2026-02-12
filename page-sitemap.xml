@@ -2,51 +2,71 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-01-26T14:43:20+00:00</lastmod>
+		<lastmod>2025-12-01T03:52:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/join-fb.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/10/Screenshot-2025-10-20-140416.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/1.Blog-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/2.-Audio-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/3.Pdf-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/4.Youtube-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/5.App-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/20.-alquran.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/10.Redio-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/9.Index-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/11.-vondabi-archive-min-country.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/8.Boi-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/call-for-ads-2-lqq.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/12.Feedback-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/posts</loc>
-		<lastmod>2025-02-14T13:07:49+00:00</lastmod>
+		<loc>/feedback/app-feedback</loc>
+		<lastmod>2026-01-12T11:11:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/all-posts-new</loc>
-		<lastmod>2025-02-11T11:50:48+00:00</lastmod>
+		<loc>/feedback</loc>
+		<lastmod>2026-01-12T08:45:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/place-an-ad</loc>
-		<lastmod>2025-02-11T07:48:28+00:00</lastmod>
+		<loc>/play</loc>
+		<lastmod>2026-01-11T11:18:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/ads-demo-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/05/playstore-badge-e1702242408900.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/ads-demo-1.1.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/05/apple-store-badge.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Screenshot-2024-02-26-212224.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/windows-store-badge.png</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Screenshot-2024-02-26-211248.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Screenshot-2024-02-26-211408.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/ads-demo-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Screenshot-2025-02-11-133009-e1739259991105.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/app-feedback</loc>
-		<lastmod>2025-02-10T18:31:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/apps</loc>
-		<lastmod>2025-02-10T18:29:44+00:00</lastmod>
+		<lastmod>2025-12-01T03:57:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/05/masnun-amal-yt-banner.jpg</image:loc>
 		</image:image>
@@ -76,33 +96,132 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/team</loc>
+		<lastmod>2025-11-09T17:26:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/posts</loc>
+		<lastmod>2025-10-19T16:15:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/ayat</loc>
+		<lastmod>2025-10-17T08:21:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Quran-HD-Islamic-Wallpapers.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/download/others-ruqyah</loc>
-		<lastmod>2025-01-29T12:48:09+00:00</lastmod>
+		<lastmod>2025-10-17T05:02:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2018/03/download-ayat-ruqyah-www.masterlatif.com_-500x360.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/download</loc>
-		<lastmod>2025-01-29T12:43:40+00:00</lastmod>
+		<lastmod>2025-10-17T05:02:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2018/03/download-ayat-ruqyah-www.masterlatif.com_-500x360.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/ayat</loc>
-		<lastmod>2025-01-10T18:54:23+00:00</lastmod>
+		<loc>/ayat/others-doc</loc>
+		<lastmod>2025-10-17T03:27:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/faq</loc>
+		<lastmod>2025-10-17T03:02:11+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/03/Quran-HD-Islamic-Wallpapers.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/11/printfriendly-pdf-button.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/play/popup-player</loc>
+		<lastmod>2025-10-17T02:45:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/read</loc>
+		<lastmod>2025-10-16T17:33:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/all-posts-new</loc>
+		<lastmod>2025-02-09T14:26:54+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blank</loc>
-		<lastmod>2025-01-03T06:09:17+00:00</lastmod>
+		<lastmod>2024-12-29T15:57:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/new-vol</loc>
+		<lastmod>2024-05-20T17:59:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/place-an-ad</loc>
+		<lastmod>2023-10-13T06:11:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/ads-demo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/ads-demo-1.1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Screenshot-2024-02-26-212224.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Screenshot-2024-02-26-211248.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Screenshot-2024-02-26-211408.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/ads-demo-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Screenshot-2025-02-11-133009-e1739259991105.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/test-page</loc>
+		<lastmod>2023-08-23T08:51:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/quran</loc>
+		<lastmod>2023-02-02T18:09:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/old-pin-post-backup</loc>
+		<lastmod>2021-06-21T19:23:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/ruqyah-index-backup</loc>
+		<lastmod>2021-06-21T19:21:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/tag-cloud</loc>
+		<lastmod>2021-05-11T19:39:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/tos</loc>
+		<lastmod>2021-01-15T06:27:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/radio</loc>
+		<lastmod>2020-11-07T14:37:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/05/playstore-badge-300x116.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/networks</loc>
+		<lastmod>2019-07-20T07:23:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/privacy-policy</loc>
+		<lastmod>2019-05-14T07:21:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/shop</loc>
-		<lastmod>2024-10-25T19:45:56+00:00</lastmod>
+		<lastmod>2018-05-22T17:15:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/ruqyah-book-fire-cover.jpg</image:loc>
 		</image:image>
@@ -114,91 +233,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/team</loc>
-		<lastmod>2024-10-12T00:56:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/play</loc>
-		<lastmod>2024-09-12T15:01:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/apple-store-badge.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/windows-store-badge.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/play/popup-player</loc>
-		<lastmod>2024-08-18T22:49:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/old-pin-post-backup</loc>
-		<lastmod>2024-07-31T17:52:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ruqyah-index-backup</loc>
-		<lastmod>2024-07-31T17:51:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/privacy-policy</loc>
-		<lastmod>2024-06-02T14:41:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/new-vol</loc>
-		<lastmod>2024-05-25T17:46:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/social-wall</loc>
-		<lastmod>2024-05-10T12:40:25+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/faq</loc>
-		<lastmod>2024-04-21T13:23:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/11/printfriendly-pdf-button.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/radio</loc>
-		<lastmod>2024-04-02T01:18:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/playstore-badge-300x116.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/feedback</loc>
-		<lastmod>2024-02-03T06:19:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/read-ayat</loc>
-		<lastmod>2023-12-24T16:18:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/case</loc>
-		<lastmod>2023-12-24T14:27:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/networks</loc>
-		<lastmod>2023-09-11T07:25:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/test-page</loc>
-		<lastmod>2023-09-08T19:06:24+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/forum</loc>
-		<lastmod>2023-08-14T16:00:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tos</loc>
-		<lastmod>2023-04-21T09:30:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/quran</loc>
-		<lastmod>2023-02-19T17:03:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tag-cloud</loc>
-		<lastmod>2022-11-21T06:49:48+00:00</lastmod>
+		<lastmod>2018-05-22T16:37:11+00:00</lastmod>
 	</url>
 </urlset>
+<!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->

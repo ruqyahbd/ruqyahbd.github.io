@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "name": "Ruqyah-EvilEye বদনজর",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-EvilEye-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 2,
+    "name": "Ruqyah-EyeHasad বদনজর-হিংসা",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-EyeHasad-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 3,
+    "name": "Ruqyah-Sihr-Mass সিহর",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Sihr-Mass-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 4,
+    "name": "Ruqyah-Sihr-Hibshi সিহর-জাদু",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Sihr-Hibshi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 5,
+    "name": "Ruqyah-Harq আয়াতুল হারক",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Harq-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 6,
+    "name": "Ruqyah-AyatulKursi আয়াতুল কুরসি",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-AyatulKursi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 7,
+    "name": "Ruqyah-3Kul তিনকুল",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-3Kul-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 8,
+    "name": "Ruqyah-8surah ৮সুরা",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-8surah-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 9,
+    "name": "Ruqyah-dua দোয়া রুকইয়াহ",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-dua-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 10,
+    "name": "curse-against-magician যাদুকরের প্রতি অভিশাপ",
+    "link": "https://files.ruqyahbd.org/audio/curse-against-magician-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 11,
+    "name": "Ruqyah-Sudais শাইখ সুদাইস",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Sudais-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 12,
+    "name": "Ruqyah-Hujaifi শাইখ হুযাইফি",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Hujaifi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 13,
+    "name": "Ruqyah-Shuraim শাইখ শুরাইম",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Shuraim-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 14,
+    "name": "Ruqyah-Ghamidi সাদ আল গামিদি",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Ghamidi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 15,
+    "name": "Ruqyah-AhmadAjmy আহমদ আজমী",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-AhmadAjmy-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 16,
+    "name": "Ruqyah-Manshawi সিদ্দিক আলমিনশাবী",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Manshawi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 17,
+    "name": "Ruqyah-Mishary মিশারি রশিদ আলআফাসী",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Mishary-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 18,
+    "name": "Ruqyah-Muhaisini শাইখ মুহাইসিনি",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Muhaisini-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 19,
+    "name": "Ruqyah-Khalid-Hibshi খালিদ হিবশি",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-KhalidHibshi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 20,
+    "name": "Ruqyah-Luhaidan শাইখ লুহাইদান",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Luhaidan-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 21,
+    "name": "Ruqyah-Mufti-JunaidCD1 জুনাইদ",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-JunaidCD1-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 22,
+    "name": "Ruqyah-IdreesAbkar শাইখ ইদরিস আবকার",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-IdreesAbkar-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 23,
+    "name": "Ruqyah-Shifa-Sakina শিফা-সাকিনা",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Shifa-Sakina-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 24,
+    "name": "Ruqyah-Azan-special আযান (হেডফোন)",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Azan-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 25,
+    "name": "Ruqyah-Azan-simple আযান-২ সিম্পল",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Azan1-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 26,
+    "name": "Sura-Baqara-by-Sudais সুরা বাকারা (সুদাইস)",
+    "link": "https://files.ruqyahbd.org/audio/Surah-Baqara-by-Sudais-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 27,
+    "name": "Sura-Baqara-by-Hujaifi সুরা বাকারা (হুযাইফি)",
+    "link": "https://files.ruqyahbd.org/audio/Surah-Baqara-by-Hujaifi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 28,
+    "name": "Sura-Taghabun সুরা তাগাবুন",
+    "link": "https://files.ruqyahbd.org/audio/SuraTaghabun-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 29,
+    "name": "Sura-Zilzal-to-Nas সুরা যিলযাল থেকে নাস",
+    "link": "https://files.ruqyahbd.org/audio/Sura-Zilzal-to-Nas-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 30,
+    "name": "Ruqyah-Zina-fahisha রুকইয়া যিনা ফাহিশা",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Zina-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 31,
+    "name": "Ruqyah-Khuruj খুরুজ",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Khuruj-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 32,
+    "name": "Ruqyah-Furqan23 ফুরকান ২৩নং আয়াত",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Furqan23-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 33,
+    "name": "Ruqyah-Dua-by-idrees রুকইয়াহ দোয়া (ইদরিস)",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Dua-by-idrees-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 34,
+    "name": "Ruqyah-Zina-fahisa-short যিনা ফাহিশা (সংক্ষিপ্ত)",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Zina-Short-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 35,
+    "name": "Ruqyah-Khuruj-short রুকইয়া খুরুজ (সংক্ষিপ্ত)",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Khuruj-Short-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 36,
+    "name": "Ruqyah-Harq-Shuraim আয়াত হারক (শুরাইম)",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Harq-Shuraim-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 37,
+    "name": "Ruqyah-Harq-long আয়াতুল হারক-৩",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Harq-long-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 38,
+    "name": "Ruqyah-MajidZamil মাজিদ যামিল",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-MajidZamil-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 39,
+    "name": "Ruqyah-Hashimi হাশিমি",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-Hashimi-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 40,
+    "name": "Ruqyah-ghamidi-long সাদ আল গামিদি (দীর্ঘ)",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-ghamidi-long-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 41,
+    "name": "Ruqyah-WithStrongForce ধমকের সুরে",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-WithStrongForce-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 42,
+    "name": "Dua-laa-ilaha-illallahu-wahdahu-100xtime ১০০বার দোয়া",
+    "link": "https://files.ruqyahbd.org/clips/Dua-laa-ilaha-illallahu-wahdahu-100xtime-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 43,
+    "name": "Ruqyah-tadmir-qital তাদমির-কিতাল",
+    "link": "https://files.ruqyahbd.org/audio/Ruqyah-tadmir-qital-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 44,
+    "name": "Ayatush-Shifa আয়াতুশ শিফা",
+    "link": "https://files.ruqyahbd.org/clips/ayat-shifa-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+  {
+    "id": 45,
+    "name": "Ayatus-Sakinah আয়াতুশ সাকিনা",
+    "link": "https://files.ruqyahbd.org/clips/ayatus-sakinah-ruqyahbd.org.mp3",
+    "type": "0"
+  },
+    {
+        "id": 46,
+        "type": " 1",
+        "name": "Surah Fatiha",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/001.mp3"
+    },
+    {
+        "id": 47,
+        "type": " 1",
+        "name": "Baqara",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/002.mp3"
+    },
+    {
+        "id": 48,
+        "type": " 1",
+        "name": "Ale-Imran",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/003.mp3"
+    },
+    {
+        "id": 49,
+        "type": " 1",
+        "name": "Nisa",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/004.mp3"
+    },
+    {
+        "id": 50,
+        "type": " 1",
+        "name": "Mayeda",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/005.mp3"
+    },
+    {
+        "id": 51,
+        "type": " 1",
+        "name": "An_am",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/006.mp3"
+    },
+    {
+        "id": 52,
+        "type": " 1",
+        "name": "A_raaf",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/007.mp3"
+    },
+    {
+        "id": 53,
+        "type": " 1",
+        "name": "Anfaal",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/008.mp3"
+    },
+    {
+        "id": 54,
+        "type": " 1",
+        "name": "Tawbah",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/009.mp3"
+    },
+    {
+        "id": 55,
+        "type": " 1",
+        "name": "Yunus",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/010.mp3"
+    },
+    {
+        "id": 56,
+        "type": " 1",
+        "name": "Hud",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/011.mp3"
+    },
+    {
+        "id": 57,
+        "type": " 1",
+        "name": "Yusuf",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/012.mp3"
+    },
+    {
+        "id": 58,
+        "type": " 1",
+        "name": "Ra_d",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/013.mp3"
+    },
+    {
+        "id": 59,
+        "type": " 1",
+        "name": "Ibrahim",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/014.mp3"
+    },
+    {
+        "id": 60,
+        "type": " 1",
+        "name": "Hijr",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/015.mp3"
+    },
+    {
+        "id": 61,
+        "type": " 1",
+        "name": "Nahl",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/016.mp3"
+    },
+    {
+        "id": 62,
+        "type": " 1",
+        "name": "Bani Israil (Isra)",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/017.mp3"
+    },
+    {
+        "id": 63,
+        "type": " 1",
+        "name": "Kahf",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/018.mp3"
+    },
+    {
+        "id": 64,
+        "type": " 1",
+        "name": "Maryam",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/019.mp3"
+    },
+    {
+        "id": 65,
+        "type": " 1",
+        "name": "taha",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/020.mp3"
+    },
+    {
+        "id": 66,
+        "type": " 1",
+        "name": "Anbiya",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/021.mp3"
+    },
+    {
+        "id": 67,
+        "type": " 1",
+        "name": "Hajj",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/022.mp3"
+    },
+    {
+        "id": 68,
+        "type": " 1",
+        "name": "Mu_minun",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/023.mp3"
+    },
+    {
+        "id": 69,
+        "type": " 1",
+        "name": "Noor",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/024.mp3"
+    },
+    {
+        "id": 70,
+        "type": " 1",
+        "name": "Furqan",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/025.mp3"
+    },
+    {
+        "id": 71,
+        "type": " 1",
+        "name": "ShuAra",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/026.mp3"
+    },
+    {
+        "id": 72,
+        "type": " 1",
+        "name": "Naml",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/027.mp3"
+    },
+    {
+        "id": 73,
+        "type": " 1",
+        "name": "Qasas",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/028.mp3"
+    },
+    {
+        "id": 74,
+        "type": " 1",
+        "name": "Ankabut",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/029.mp3"
+    },
+    {
+        "id": 75,
+        "type": " 1",
+        "name": "Rome",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/030.mp3"
+    },
+    {
+        "id": 76,
+        "type": " 1",
+        "name": "Luqman",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/031.mp3"
+    },
+    {
+        "id": 77,
+        "type": " 1",
+        "name": "Sajdah",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/032.mp3"
+    },
+    {
+        "id": 78,
+        "type": " 1",
+        "name": "Ahazab",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/033.mp3"
+    },
+    {
+        "id": 79,
+        "type": " 1",
+        "name": "Saba",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/034.mp3"
+    },
+    {
+        "id": 80,
+        "type": " 1",
+        "name": "Fatir",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/035.mp3"
+    },
+    {
+        "id": 81,
+        "type": " 1",
+        "name": "Yasin",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/036.mp3"
+    },
+    {
+        "id": 82,
+        "type": " 1",
+        "name": "Saffat",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/037.mp3"
+    },
+    {
+        "id": 83,
+        "type": " 1",
+        "name": "Saad",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/038.mp3"
+    },
+    {
+        "id": 84,
+        "type": " 1",
+        "name": "Zumar",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/039.mp3"
+    },
+    {
+        "id": 85,
+        "type": " 1",
+        "name": "Mu_min (Ghafir)",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/040.mp3"
+    },
+    {
+        "id": 86,
+        "type": " 1",
+        "name": "Ha-mim Sajdah (Fussilat)",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/041.mp3"
+    },
+    {
+        "id": 87,
+        "type": " 1",
+        "name": "Shura",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/042.mp3"
+    },
+    {
+        "id": 88,
+        "type": " 1",
+        "name": "Zukhruf",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/043.mp3"
+    },
+    {
+        "id": 89,
+        "type": " 1",
+        "name": "Dukhan",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/044.mp3"
+    },
+    {
+        "id": 90,
+        "type": " 1",
+        "name": "Jasiya",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/045.mp3"
+    },
+    {
+        "id": 91,
+        "type": " 1",
+        "name": "Ahqaaf",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/046.mp3"
+    },
+    {
+        "id": 92,
+        "type": " 1",
+        "name": "Muhammad",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/047.mp3"
+    },
+    {
+        "id": 93,
+        "type": " 1",
+        "name": "Fatah",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/048.mp3"
+    },
+    {
+        "id": 94,
+        "type": " 1",
+        "name": "Huzuraat",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/049.mp3"
+    },
+    {
+        "id": 95,
+        "type": " 1",
+        "name": "Qaaf",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/050.mp3"
+    },
+    {
+        "id": 96,
+        "type": " 1",
+        "name": "zariyaat",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/051.mp3"
+    },
+    {
+        "id": 97,
+        "type": " 1",
+        "name": "tuur",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/052.mp3"
+    },
+    {
+        "id": 98,
+        "type": " 1",
+        "name": "Najm",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/053.mp3"
+    },
+    {
+        "id": 99,
+        "type": " 1",
+        "name": "Qamar",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/054.mp3"
+    },
+    {
+        "id": 100,
+        "type": " 1",
+        "name": "Ar-Rahman",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/055.mp3"
+    },
+    {
+        "id": 101,
+        "type": " 1",
+        "name": "Waqia",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/056.mp3"
+    },
+    {
+        "id": 102,
+        "type": " 1",
+        "name": "Hadid",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/057.mp3"
+    },
+    {
+        "id": 103,
+        "type": " 1",
+        "name": "Mujadala",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/058.mp3"
+    },
+    {
+        "id": 104,
+        "type": " 1",
+        "name": "Hashr",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/059.mp3"
+    },
+    {
+        "id": 105,
+        "type": " 1",
+        "name": "Mumtahinah (Mumtahanah)",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/060.mp3"
+    },
+    {
+        "id": 106,
+        "type": " 1",
+        "name": "Saf",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/061.mp3"
+    },
+    {
+        "id": 107,
+        "type": " 1",
+        "name": "JumA",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/062.mp3"
+    },
+    {
+        "id": 108,
+        "type": " 1",
+        "name": "Munafiqun",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/063.mp3"
+    },
+    {
+        "id": 109,
+        "type": " 1",
+        "name": "Tagabun",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/064.mp3"
+    },
+    {
+        "id": 110,
+        "type": " 1",
+        "name": "Talaq",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/065.mp3"
+    },
+    {
+        "id": 111,
+        "type": " 1",
+        "name": "Tahreem",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/066.mp3"
+    },
+    {
+        "id": 112,
+        "type": " 1",
+        "name": "Mulk",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/067.mp3"
+    },
+    {
+        "id": 113,
+        "type": " 1",
+        "name": "Qalam",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/068.mp3"
+    },
+    {
+        "id": 114,
+        "type": " 1",
+        "name": "Haqqah",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/069.mp3"
+    },
+    {
+        "id": 115,
+        "type": " 1",
+        "name": "MaArij",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/070.mp3"
+    },
+    {
+        "id": 116,
+        "type": " 1",
+        "name": "Nooh",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/071.mp3"
+    },
+    {
+        "id": 117,
+        "type": " 1",
+        "name": "Jinn",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/072.mp3"
+    },
+    {
+        "id": 118,
+        "type": " 1",
+        "name": "Muzzammil",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/073.mp3"
+    },
+    {
+        "id": 119,
+        "type": " 1",
+        "name": "Muddassir",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/074.mp3"
+    },
+    {
+        "id": 120,
+        "type": " 1",
+        "name": "Qiyaamah",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/075.mp3"
+    },
+    {
+        "id": 121,
+        "type": " 1",
+        "name": "Dahr (Insaan)",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/076.mp3"
+    },
+    {
+        "id": 122,
+        "type": " 1",
+        "name": "Mursalaat",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/077.mp3"
+    },
+    {
+        "id": 123,
+        "type": " 1",
+        "name": "Naba",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/078.mp3"
+    },
+    {
+        "id": 124,
+        "type": " 1",
+        "name": "Naziyat",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/079.mp3"
+    },
+    {
+        "id": 125,
+        "type": " 1",
+        "name": "Abasa",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/080.mp3"
+    },
+    {
+        "id": 126,
+        "type": " 1",
+        "name": "Takwir",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/081.mp3"
+    },
+    {
+        "id": 127,
+        "type": " 1",
+        "name": "Infitar",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/082.mp3"
+    },
+    {
+        "id": 128,
+        "type": " 1",
+        "name": "Muttaffifeen",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/083.mp3"
+    },
+    {
+        "id": 129,
+        "type": " 1",
+        "name": "Inshiqaaq",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/084.mp3"
+    },
+    {
+        "id": 130,
+        "type": " 1",
+        "name": "Buruj",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/085.mp3"
+    },
+    {
+        "id": 131,
+        "type": " 1",
+        "name": "Tarik",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/086.mp3"
+    },
+    {
+        "id": 132,
+        "type": " 1",
+        "name": "A_la",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/087.mp3"
+    },
+    {
+        "id": 133,
+        "type": " 1",
+        "name": "Gashiyah",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/088.mp"
+    },
+    {
+        "id": 134,
+        "type": " 1",
+        "name": "Fajr",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/089.mp3"
+    },
+    {
+        "id": 135,
+        "type": " 1",
+        "name": "Balad",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/090.mp3"
+    },
+    {
+        "id": 136,
+        "type": " 1",
+        "name": "Shams",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/091.mp3"
+    },
+    {
+        "id": 137,
+        "type": " 1",
+        "name": "Layl",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/092.mp3"
+    },
+    {
+        "id": 138,
+        "type": " 1",
+        "name": "Duhaa",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/093.mp3"
+    },
+    {
+        "id": 139,
+        "type": " 1",
+        "name": "Alam Nashra (Inshirah)",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/094.mp3"
+    },
+    {
+        "id": 140,
+        "type": " 1",
+        "name": "teen",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/095.mp3"
+    },
+    {
+        "id": 141,
+        "type": " 1",
+        "name": "Alaq",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/096.mp3"
+    },
+    {
+        "id": 142,
+        "type": " 1",
+        "name": "Qadr",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/097.mp3"
+    },
+    {
+        "id": 143,
+        "type": " 1",
+        "name": "Bayyina",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/098.mp3"
+    },
+    {
+        "id": 144,
+        "type": " 1",
+        "name": "Zilzal",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/099.mp3"
+    },
+    {
+        "id": 145,
+        "type": " 1",
+        "name": "Aadiyat",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/100.mp3"
+    },
+    {
+        "id": 146,
+        "type": " 1",
+        "name": "Qariah",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/101.mp3"
+    },
+    {
+        "id": 147,
+        "type": " 1",
+        "name": "takasur",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/102.mp3"
+    },
+    {
+        "id": 148,
+        "type": " 1",
+        "name": "Asr",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/103.mp3"
+    },
+    {
+        "id": 149,
+        "type": " 1",
+        "name": "Humaza",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/104.mp3"
+    },
+    {
+        "id": 150,
+        "type": " 1",
+        "name": "Feel",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/105.mp3"
+    },
+    {
+        "id": 151,
+        "type": " 1",
+        "name": "Quraish",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/106.mp3"
+    },
+    {
+        "id": 152,
+        "type": " 1",
+        "name": "MaUn",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/107.mp3"
+    },
+    {
+        "id": 153,
+        "type": " 1",
+        "name": "Kawsar",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/108.mp3"
+    },
+    {
+        "id": 154,
+        "type": " 1",
+        "name": "Kaafirun",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/109.mp3"
+    },
+    {
+        "id": 155,
+        "type": " 1",
+        "name": "Nasr",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/110.mp3"
+    },
+    {
+        "id": 156,
+        "type": " 1",
+        "name": "Lahab (Masad)",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/111.mp3"
+    },
+    {
+        "id": 157,
+        "type": " 1",
+        "name": "Ikhlas",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/112.mp3"
+    },
+    {
+        "id": 158,
+        "type": " 1",
+        "name": "Falaq",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/0113.mp3"
+    },
+    {
+        "id": 159,
+        "type": " 1",
+        "name": "Nas",
+        "link": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/114.mp3"
+    },
+    {
+        "id": 160,
+        "type": "1",
+        "name": "সুরা ফাতিহা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/001.mp3"
+    },
+    {
+        "id": 161,
+        "type": "1",
+        "name": "বাকারা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/002.mp3"
+    },
+    {
+        "id": 162,
+        "type": "1",
+        "name": "আলে-ইমরান",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/003.mp3"
+    },
+    {
+        "id": 163,
+        "type": "1",
+        "name": "নিসা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/004.mp3"
+    },
+    {
+        "id": 164,
+        "type": "1",
+        "name": "মায়েদা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/005.mp3"
+    },
+    {
+        "id": 165,
+        "type": "1",
+        "name": "আন_আম",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/006.mp3"
+    },
+    {
+        "id": 166,
+        "type": "1",
+        "name": "আ_রাফ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/007.mp3"
+    },
+    {
+        "id": 167,
+        "type": "1",
+        "name": "আনফাল",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/008.mp3"
+    },
+    {
+        "id": 168,
+        "type": "1",
+        "name": "তাওবাহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/009.mp3"
+    },
+    {
+        "id": 169,
+        "type": "1",
+        "name": "ইউনুস",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/010.mp3"
+    },
+    {
+        "id": 170,
+        "type": "1",
+        "name": "হুদ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/011.mp3"
+    },
+    {
+        "id": 171,
+        "type": "1",
+        "name": "ইউসুফ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/012.mp3"
+    },
+    {
+        "id": 172,
+        "type": "1",
+        "name": "রা_দ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/013.mp3"
+    },
+    {
+        "id": 173,
+        "type": "1",
+        "name": "ইবরাহীম",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/014.mp3"
+    },
+    {
+        "id": 174,
+        "type": "1",
+        "name": "হিজর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/015.mp3"
+    },
+    {
+        "id": 175,
+        "type": "1",
+        "name": "নাহল",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/016.mp3"
+    },
+    {
+        "id": 176,
+        "type": "1",
+        "name": "বনী ইসরাইল (ইসরা)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/017.mp3"
+    },
+    {
+        "id": 177,
+        "type": "1",
+        "name": "কাহফ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/018.mp3"
+    },
+    {
+        "id": 178,
+        "type": "1",
+        "name": "মারইয়াম",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/019.mp3"
+    },
+    {
+        "id": 179,
+        "type": "1",
+        "name": "ত্বহা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/020.mp3"
+    },
+    {
+        "id": 180,
+        "type": "1",
+        "name": "আম্বিয়া",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/021.mp3"
+    },
+    {
+        "id": 181,
+        "type": "1",
+        "name": "হাজ্জ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/022.mp3"
+    },
+    {
+        "id": 182,
+        "type": "1",
+        "name": "মু_মিনুন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/023.mp3"
+    },
+    {
+        "id": 183,
+        "type": "1",
+        "name": "নূর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/024.mp3"
+    },
+    {
+        "id": 184,
+        "type": "1",
+        "name": "ফুরকান",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/025.mp3"
+    },
+    {
+        "id": 185,
+        "type": "1",
+        "name": "শু_আরা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/026.mp3"
+    },
+    {
+        "id": 186,
+        "type": "1",
+        "name": "নামল",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/027.mp3"
+    },
+    {
+        "id": 187,
+        "type": "1",
+        "name": "ক্বাসাস",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/028.mp3"
+    },
+    {
+        "id": 188,
+        "type": "1",
+        "name": "আনকাবূত",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/029.mp3"
+    },
+    {
+        "id": 189,
+        "type": "1",
+        "name": "রূম",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/030.mp3"
+    },
+    {
+        "id": 190,
+        "type": "1",
+        "name": "লুকমান",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/031.mp3"
+    },
+    {
+        "id": 191,
+        "type": "1",
+        "name": "সাজদাহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/032.mp3"
+    },
+    {
+        "id": 192,
+        "type": "1",
+        "name": "আহযাব",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/033.mp3"
+    },
+    {
+        "id": 193,
+        "type": "1",
+        "name": "সাবা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/034.mp3"
+    },
+    {
+        "id": 194,
+        "type": "1",
+        "name": "ফা-তির",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/035.mp3"
+    },
+    {
+        "id": 195,
+        "type": "1",
+        "name": "ইয়াসিন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/036.mp3"
+    },
+    {
+        "id": 196,
+        "type": "1",
+        "name": "সফফাত",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/037.mp3"
+    },
+    {
+        "id": 197,
+        "type": "1",
+        "name": "ছদ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/038.mp3"
+    },
+    {
+        "id": 198,
+        "type": "1",
+        "name": "যুমার",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/039.mp3"
+    },
+    {
+        "id": 199,
+        "type": "1",
+        "name": "মু_মিন (গাফির)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/040.mp3"
+    },
+    {
+        "id": 200,
+        "type": "1",
+        "name": "হা-মিম সাজদাহ (ফুসসিলাত)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/041.mp3"
+    },
+    {
+        "id": 201,
+        "type": "1",
+        "name": "শূরা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/042.mp3"
+    },
+    {
+        "id": 202,
+        "type": "1",
+        "name": "যুখরুফ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/043.mp3"
+    },
+    {
+        "id": 203,
+        "type": "1",
+        "name": "দুখান",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/044.mp3"
+    },
+    {
+        "id": 204,
+        "type": "1",
+        "name": "জাসিয়া",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/045.mp3"
+    },
+    {
+        "id": 205,
+        "type": "1",
+        "name": "আহক্বাফ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/046.mp3"
+    },
+    {
+        "id": 206,
+        "type": "1",
+        "name": "মুহাম্মাদ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/047.mp3"
+    },
+    {
+        "id": 207,
+        "type": "1",
+        "name": "ফাতহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/048.mp3"
+    },
+    {
+        "id": 208,
+        "type": "1",
+        "name": "হুজুরাত",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/049.mp3"
+    },
+    {
+        "id": 209,
+        "type": "1",
+        "name": "ক্বফ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/050.mp3"
+    },
+    {
+        "id": 210,
+        "type": "1",
+        "name": "যারিয়াত",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/051.mp3"
+    },
+    {
+        "id": 211,
+        "type": "1",
+        "name": "তূর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/052.mp3"
+    },
+    {
+        "id": 212,
+        "type": "1",
+        "name": "নাজম",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/053.mp3"
+    },
+    {
+        "id": 213,
+        "type": "1",
+        "name": "ক্বমার",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/054.mp3"
+    },
+    {
+        "id": 214,
+        "type": "1",
+        "name": "আর-রহমান",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/055.mp3"
+    },
+    {
+        "id": 215,
+        "type": "1",
+        "name": "ওয়াক্বিয়া",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/056.mp3"
+    },
+    {
+        "id": 216,
+        "type": "1",
+        "name": "হাদীদ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/057.mp3"
+    },
+    {
+        "id": 217,
+        "type": "1",
+        "name": "মুজাদালাহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/058.mp3"
+    },
+    {
+        "id": 218,
+        "type": "1",
+        "name": "হাশর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/059.mp3"
+    },
+    {
+        "id": 219,
+        "type": "1",
+        "name": "মুমতাহিনাহ (মুমতাহানাহ)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/060.mp3"
+    },
+    {
+        "id": 220,
+        "type": "1",
+        "name": "ছফ (আস-সাফ)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/061.mp3"
+    },
+    {
+        "id": 221,
+        "type": "1",
+        "name": "জুমুআ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/062.mp3"
+    },
+    {
+        "id": 222,
+        "type": "1",
+        "name": "মুনাফিকুন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/063.mp3"
+    },
+    {
+        "id": 223,
+        "type": "1",
+        "name": "তাগাবুন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/064.mp3"
+    },
+    {
+        "id": 224,
+        "type": "1",
+        "name": "তালাক",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/065.mp3"
+    },
+    {
+        "id": 225,
+        "type": "1",
+        "name": "তাহরীম",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/066.mp3"
+    },
+    {
+        "id": 226,
+        "type": "1",
+        "name": "মুলক",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/067.mp3"
+    },
+    {
+        "id": 227,
+        "type": "1",
+        "name": "ক্বলাম",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/068.mp3"
+    },
+    {
+        "id": 228,
+        "type": "1",
+        "name": "হাক্কাহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/069.mp3"
+    },
+    {
+        "id": 229,
+        "type": "1",
+        "name": "মাআরিজ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/070.mp3"
+    },
+    {
+        "id": 230,
+        "type": "1",
+        "name": "নূহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/071.mp3"
+    },
+    {
+        "id": 231,
+        "type": "1",
+        "name": "জ্বিন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/072.mp3"
+    },
+    {
+        "id": 232,
+        "type": "1",
+        "name": "মুজাম্মিল",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/073.mp3"
+    },
+    {
+        "id": 233,
+        "type": "1",
+        "name": "মুদ্দাস্সির",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/074.mp3"
+    },
+    {
+        "id": 234,
+        "type": "1",
+        "name": "ক্বিয়ামাহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/075.mp3"
+    },
+    {
+        "id": 235,
+        "type": "1",
+        "name": "দাহর (ইনসান)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/076.mp3"
+    },
+    {
+        "id": 236,
+        "type": "1",
+        "name": "মুরসালাত",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/077.mp3"
+    },
+    {
+        "id": 237,
+        "type": "1",
+        "name": "নাবা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/078.mp3"
+    },
+    {
+        "id": 238,
+        "type": "1",
+        "name": "নাযিয়াত",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/079.mp3"
+    },
+    {
+        "id": 239,
+        "type": "1",
+        "name": "আবাসা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/080.mp3"
+    },
+    {
+        "id": 240,
+        "type": "1",
+        "name": "তাকভীর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/081.mp3"
+    },
+    {
+        "id": 241,
+        "type": "1",
+        "name": "ইনফিতার",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/082.mp3"
+    },
+    {
+        "id": 242,
+        "type": "1",
+        "name": "মুত্বাফ্‌ফিফীন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/083.mp3"
+    },
+    {
+        "id": 243,
+        "type": "1",
+        "name": "ইন‌শিকাক",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/084.mp3"
+    },
+    {
+        "id": 244,
+        "type": "1",
+        "name": "বুরুজ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/085.mp3"
+    },
+    {
+        "id": 245,
+        "type": "1",
+        "name": "ত্বা-রিক্ব",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/086.mp3"
+    },
+    {
+        "id": 246,
+        "type": "1",
+        "name": "আ’লা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/087.mp3"
+    },
+    {
+        "id": 247,
+        "type": "1",
+        "name": "গাশিয়াহ্‌",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/088.mp"
+    },
+    {
+        "id": 248,
+        "type": "1",
+        "name": "ফাজ্‌র",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/089.mp3"
+    },
+    {
+        "id": 249,
+        "type": "1",
+        "name": "বালাদ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/090.mp3"
+    },
+    {
+        "id": 250,
+        "type": "1",
+        "name": "শাম্‌স",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/091.mp3"
+    },
+    {
+        "id": 251,
+        "type": "1",
+        "name": "লাইল",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/092.mp3"
+    },
+    {
+        "id": 252,
+        "type": "1",
+        "name": "দুহা",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/093.mp3"
+    },
+    {
+        "id": 253,
+        "type": "1",
+        "name": "আলাম-নাশরাহ (ইনশিরাহ)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/094.mp3"
+    },
+    {
+        "id": 254,
+        "type": "1",
+        "name": "ত্বীন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/095.mp3"
+    },
+    {
+        "id": 255,
+        "type": "1",
+        "name": "আলাক্ব",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/096.mp3"
+    },
+    {
+        "id": 256,
+        "type": "1",
+        "name": "ক্বদর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/097.mp3"
+    },
+    {
+        "id": 257,
+        "type": "1",
+        "name": "বাইয়্যিনাহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/098.mp3"
+    },
+    {
+        "id": 258,
+        "type": "1",
+        "name": "যিলযাল",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/099.mp3"
+    },
+    {
+        "id": 259,
+        "type": "1",
+        "name": "আদিয়াত",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/100.mp3"
+    },
+    {
+        "id": 260,
+        "type": "1",
+        "name": "ক্বরিয়াহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/101.mp3"
+    },
+    {
+        "id": 261,
+        "type": "1",
+        "name": "তাকাছুর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/102.mp3"
+    },
+    {
+        "id": 262,
+        "type": "1",
+        "name": "আসর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/103.mp3"
+    },
+    {
+        "id": 263,
+        "type": "1",
+        "name": "হুমাযাহ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Ali_Abdur-Rahman_Al-Huthaify/104.mp3"
+    },
+    {
+        "id": 264,
+        "type": "1",
+        "name": "ফিল",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/105.mp3"
+    },
+    {
+        "id": 265,
+        "type": "1",
+        "name": "কুরাইশ",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/106.mp3"
+    },
+    {
+        "id": 266,
+        "type": "1",
+        "name": "মাউন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/107.mp3"
+    },
+    {
+        "id": 267,
+        "type": "1",
+        "name": "কাউসার",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/108.mp3"
+    },
+    {
+        "id": 268,
+        "type": "1",
+        "name": "কাফিরুন",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/109.mp3"
+    },
+    {
+        "id": 269,
+        "type": "1",
+        "name": "নাসর",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/110.mp3"
+    },
+    {
+        "id": 270,
+        "type": "1",
+        "name": "লাহাব (মাসাদ)",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Ali_Abdur-Rahman_Al-Huthaify/111.mp3"
+    },
+    {
+        "id": 271,
+        "type": "1",
+        "name": "ইখলাস",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/112.mp3"
+    },
+    {
+        "id": 272,
+        "type": "1",
+        "name": "ফালাক্ব",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/113.mp3"
+    },
+    {
+        "id": 273,
+        "type": "1",
+        "name": "নাস",
+        "link": "https://www.qurantranslations.net/sound/Bengali/Sudais_and_Shuraym/114.mp3"
+    },
+  {
+    "id": 274,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 275,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 276,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 277,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 278,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 279,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 280,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 281,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 282,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 283,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 284,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 285,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 286,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 287,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 288,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 289,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 290,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 291,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 292,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 293,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 294,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 295,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 296,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 297,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 298,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 299,
+    "name": "",
+    "link": "",
+    "type": ""
+  },
+  {
+    "id": 300,
+    "name": "",
+    "link": "",
+    "type": ""
+  }
+]

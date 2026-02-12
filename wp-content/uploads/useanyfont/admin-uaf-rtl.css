@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'al-majeed-quranic';
+					src: url('/wp-content/uploads/useanyfont/2572al-majeed-quranic.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2572al-majeed-quranic.woff') format('woff');
+						font-weight: 800; font-style: normal; font-display: auto;
+				}
+
+				.al-majeed-quranic{font-family: 'al-majeed-quranic' !important;}
+
+				.et_gf_al-majeed-quranic{background:none !important;font-family:al-majeed-quranic;text-indent:0 !important;font-size:25px;}
+
+		
